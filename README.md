@@ -27,6 +27,16 @@ Proyek ini dibangun menggunakan 5 kelas utama yang saling berinteraksi:
 
 ---
 
+## SCREENSHOT 
+<img src="assets/buat pesewaan baru.png">
+<img src="assets/cek status.png">
+<img src="assets/create.png">
+<img src="assets/logout.png">
+<img src="assets/main.png">
+<img src="assets/read.png">
+<img src="assets/search.png">
+<img src="assets/update.png">
+
 ## ✨ Fitur Utama Aplikasi
 
 Aplikasi ini dapat menjalankan fungsi-fungsi berikut:
@@ -63,3 +73,4 @@ Pastikan Anda telah menginstal **Java Development Kit (JDK)** (disarankan Java 1
     ```
 
 ### Contoh Tampilan Output
+
