@@ -37,23 +37,6 @@ Proyek ini dibangun menggunakan 5 kelas utama yang saling berinteraksi:
 <img src="assets/update.png">
 <img src="assets/logout.png">
 
-## ✨ Fitur Utama Aplikasi
-
-Aplikasi ini dapat menjalankan fungsi-fungsi berikut:
-
-1.  **Manajemen Data Kendaraan (CRUD)**:
-    * Menambahkan kendaraan baru (Mobil atau Motor).
-    * Menampilkan semua armada beserta status ketersediaannya.
-    * Mengubah harga sewa kendaraan.
-    * Mencari kendaraan berdasarkan Merk.
-2.  **Transaksi**:
-    * Melakukan proses sewa kendaraan (membuat objek `Penyewaan` dan `Pelanggan`).
-    * Menghitung total biaya sewa berdasarkan harga per hari.
-    * Mengubah status kendaraan dari TERSEDIA menjadi DISEWA.
-3.  **Pengembalian**: Mengubah status kendaraan kembali menjadi TERSEDIA.
-4.  **Validasi**: Melakukan validasi sederhana, seperti pengecekan panjang NIK pada objek `Pelanggan`.
-
----
 
 ## 🛠️ Cara Menjalankan
 
@@ -73,5 +56,6 @@ Pastikan Anda telah menginstal **Java Development Kit (JDK)** (disarankan Java 1
     ```
 
 ### Contoh Tampilan Output
+
 
 
