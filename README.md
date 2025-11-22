@@ -2,7 +2,7 @@
 ```
 Name    : Aldi Alfariz 
 NIM     : 24552011212
-Kelas   : TIF RP-23 CNS A
+Kelas   : TIF RP-24D
 ```
 # 🚗 Aplikasi Rental Kendaraan (OOP Console App)
 
@@ -56,6 +56,7 @@ Pastikan Anda telah menginstal **Java Development Kit (JDK)** (disarankan Java 1
     ```
 
 ### Contoh Tampilan Output
+
 
 
 
